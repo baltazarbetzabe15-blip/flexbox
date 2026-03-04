@@ -1,0 +1,26 @@
+/* Cambia el color de fondo y la letra de toda la página */
+body {
+    background-color: #f4f7f6;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Dale estilo al título principal */
+header h1 {
+    color: #2c3e50;
+    text-align: center;
+    border-bottom: 2px solid #e74c3c;
+    padding-bottom: 10px;
+}
+
+/* Mejora la apariencia de las secciones */
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
