@@ -1,6 +1,6 @@
 /* Cambia el color de fondo y la letra de toda la página */
 body {
-    background-color: #f4f7f6;
+    background-color: #6fabba;
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
@@ -18,7 +18,7 @@ header h1 {
 
 /* Mejora la apariencia de las secciones */
 section {
-    background: white;
+    background: rgb(160, 187, 203);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
