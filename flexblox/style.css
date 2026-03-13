@@ -1,0 +1,39 @@
+body{
+background-color: lightgray;
+}
+
+.contenedor{
+background-color: black;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 25px;
+}
+
+/* estilos generales de las cajas */
+.caja1, .caja2, .caja3, .caja4{
+width: 70px;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 28px;
+font-weight: bold;
+}
+
+/* colores */
+.caja1{
+background-color: blue;
+}
+
+.caja2{
+background-color: green;
+}
+
+.caja3{
+background-color: yellow;
+}
+
+.caja4{
+background-color: red;
+}
